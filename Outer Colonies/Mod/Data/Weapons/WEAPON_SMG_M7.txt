@@ -1,0 +1,31 @@
+<weapon>
+
+	<name>M7 Submachinegun</name>
+	<type>WEAPON_SMG</type>
+
+	<dimensions>
+		<calibre>5</calibre>
+		<barrel_length>20</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_M7</sound_shoot>
+		<rof>900</rof>
+		<reload>RELOAD_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>60</capacity>
+		<sound_reload>reload_magazine</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_BALL</flavour><speed>600</speed><mass>0.006</mass><name>5x23mm caseless</name></type>
+	</ammo>
+
+	<usage>
+		<countries>USA</countries>
+		<period>MODERN</period>
+	</usage>
+
+</weapon>

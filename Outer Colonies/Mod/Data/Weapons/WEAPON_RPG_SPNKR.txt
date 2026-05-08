@@ -1,0 +1,33 @@
+<weapon>
+
+	<name>M41 SPNKr</name>
+	<type>WEAPON_RPG</type>
+
+	<dimensions>
+		<calibre>84</calibre>
+		<barrel_length>60</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_bazooka</sound_shoot>
+		<range>400</range>
+		<rof>60</rof>
+		<muzzle_flash>no</muzzle_flash>
+		<reload>RELOAD_SEMI_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>2</capacity>
+		<sound_reload>reload_magazine</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_RPG</flavour><speed>255</speed><mass>4</mass><era>HEAT_ERA_COLD_WAR</era><smoke_trail>yes</smoke_trail><HE>0.5</HE><name>HEAT</name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>
