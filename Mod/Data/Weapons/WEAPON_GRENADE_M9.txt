@@ -1,0 +1,21 @@
+<weapon>
+
+	<name>M9 Grenade</name>
+	<type>WEAPON_GRENADE</type>
+
+	<dimensions>
+	</dimensions>
+
+	<shoot>
+		<muzzle_flash>no</muzzle_flash>
+	</shoot>
+
+	<ammo>
+		<type><flavour>FLAVOUR_GRENADE_HE</flavour><mass>0.5</mass><HE>0.13</HE><explode_in>4.5</explode_in><name>Grenade</name></type>
+	</ammo>
+
+	<usage>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>
