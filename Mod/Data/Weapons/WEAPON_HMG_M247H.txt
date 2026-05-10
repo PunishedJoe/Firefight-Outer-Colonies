@@ -9,7 +9,7 @@
 	</dimensions>
 
 	<shoot>
-		<sound_shoot>shoot_HMG</sound_shoot>
+		<sound_shoot>shoot_M247H</sound_shoot>
 		<rof>514</rof>
 		<reload>RELOAD_AUTOMATIC</reload>
 	</shoot>

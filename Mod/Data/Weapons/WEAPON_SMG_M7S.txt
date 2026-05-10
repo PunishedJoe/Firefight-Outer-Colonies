@@ -1,6 +1,6 @@
 <weapon>
 
-	<name>M7S Submachinegun</name>
+	<name>M7/S Submachinegun</name>
 	<type>WEAPON_SMG</type>
 
 	<dimensions>

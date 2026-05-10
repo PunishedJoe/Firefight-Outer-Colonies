@@ -1,3 +1,4 @@
 // infantry
 URF Rebel Squad
 URF Traitor Marine Squad
+URF Veterans
