@@ -1,26 +1,26 @@
 <weapon>
 
-	<name>M247H Heavy Machine Gun</name>
+	<name>M247 General Purpose Machine Gun</name>
 	<type>WEAPON_HMG</type>
 
 	<dimensions>
-		<calibre>12.7</calibre>
+		<calibre>7.62</calibre>
 		<barrel_length>64</barrel_length>
 	</dimensions>
 
 	<shoot>
 		<sound_shoot>shoot_M247H</sound_shoot>
-		<rof>514</rof>
+		<rof>900</rof>
 		<reload>RELOAD_AUTOMATIC</reload>
 	</shoot>
 
 	<magazine>
-		<capacity>100</capacity>
+		<capacity>200</capacity>
 		<sound_reload>reload_magazine</sound_reload>
 	</magazine>
 
 	<ammo>
-		<type><flavour>FLAVOUR_BALL</flavour><speed>890</speed><mass>0.045</mass><name>12.7x99mm</name></type>
+		<type><flavour>FLAVOUR_BALL</flavour><speed>800</speed><mass>0.011</mass><name>7.62x51mm</name></type>
 	</ammo>
 
 	<usage>

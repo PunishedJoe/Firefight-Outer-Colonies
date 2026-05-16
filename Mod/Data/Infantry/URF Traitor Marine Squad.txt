@@ -6,7 +6,7 @@
 
 		<long_name>URF Traitor Marine Squad</long_name>
 		<short_name>Traitor Marine Squad</short_name>
-		<comment>8 MA5B assault rifles, 3 M392 DMRs, 1 M7 SMG, 1 SPNKR RPGs</comment>
+		<comment>5 MA5B assault rifles, 2 M392 DMRs, 1 M7 SMG, 1 SPNKR RPGs</comment>
 
 		<uniform>american_marines</uniform>
 	</description>
@@ -25,49 +25,6 @@
 
 		<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>480</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
-	</man>
-
-	<man>
-                <body_armour>yes</body_armour>
-
-		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
-		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
-
-		<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>480</rounds></ammo>
-		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
-	</man>
-
-	<man>
-                <body_armour>yes</body_armour>
-
-		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
-		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
-
-		<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>480</rounds></ammo>
-		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
-	</man>
-
-	<man>
-		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
-
-		<weapon><type>WEAPON_DMR_M392</type></weapon>
-		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
-		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
-
-		<ammo><for>WEAPON_DMR_M392</for><rounds>150</rounds></ammo>
-		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
-		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
-	</man>
-
-	<man>
-                <body_armour>yes</body_armour>
-
-		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
-		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
-
-		<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>480</rounds></ammo>
-		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
 	</man>
 
 	<man>

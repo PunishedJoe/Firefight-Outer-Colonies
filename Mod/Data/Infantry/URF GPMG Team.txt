@@ -4,11 +4,11 @@
 		<nationality>NATIONALITY_AMERICAN</nationality>
 		<quality>QUALITY_REGULAR</quality>
 
-		<long_name>UNSC Marines HMG Team</long_name>
-		<short_name>M247H HMG</short_name>
-		<comment>1 M247H HMG, 2 M7 SMG's</comment>
+		<long_name>URF GPMG Team</long_name>
+		<short_name>M247 GPMG</short_name>
+		<comment>1 M247 GPMG, 2 M7 SMG's</comment>
 
-		<uniform>american_marines</uniform>
+		<uniform>russian</uniform>
 	</description>
 
 	<availability>
@@ -21,12 +21,12 @@
 		<image_view_gun>Image-HMG gun.png</image_view_gun>
 		<image_profile>Profile-HMG.png</image_profile>
 
-		<weapon><type>WEAPON_HMG_M247H</type></weapon>
+		<weapon><type>WEAPON_HMG_M247GPMG</type></weapon>
 
-		<ammo><for>WEAPON_HMG_M247H</for><rounds>400</rounds></ammo>
+		<ammo><for>WEAPON_HMG_M247GPMG</for><rounds>500</rounds></ammo>
 
-		<rotate_left>45</rotate_left>
-		<rotate_right>45</rotate_right>
+		<rotate_left>60</rotate_left>
+		<rotate_right>60</rotate_right>
 
 	</hmg>
 
@@ -48,6 +48,6 @@
 		<weapon><type>WEAPON_SMG_M7</type></weapon>
 
 		<ammo><for>WEAPON_SMG_M7</for><rounds>480</rounds></ammo>
-		<ammo><for>WEAPON_HMG_M247H</for><rounds>400</rounds></ammo>
+		<ammo><for>WEAPON_HMG_M247GPMG</for><rounds>500</rounds></ammo>
 	</man>
 </squad>
