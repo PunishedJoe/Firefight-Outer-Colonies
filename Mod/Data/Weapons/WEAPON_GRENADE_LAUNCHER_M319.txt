@@ -15,8 +15,9 @@
 	</shoot>
 
 	<ammo>
-		<type><flavour>FLAVOUR_GRENADE_HE</flavour><speed>76</speed><mass>0.5</mass><HE>0.113</HE><name>Rifle Grenade</name></type>
+		<type><flavour>FLAVOUR_GRENADE_HE</flavour><speed>76</speed><mass>0.5</mass><HE>0.113</HE><name>HE Grenade</name></type>
 		<type><flavour>FLAVOUR_GRENADE_SMOKE</flavour><speed>76</speed><mass>0.5</mass><name>Smoke Grenade</name></type>
+		<type><flavour>FLAVOUR_GRENADE_HEAT</flavour><speed>76</speed><mass>0.6</mass><HE>0.22</HE><name>HEAT Shell</name></type>
 	</ammo>
 
 	<usage>
