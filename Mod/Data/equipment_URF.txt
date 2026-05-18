@@ -3,6 +3,7 @@ URF Rebel Squad
 URF Traitor Marine Squad
 URF Veterans
 URF GPMG Team
+URF Fake Civilians
 
 //vehicles
 

@@ -1,0 +1,100 @@
+<squad>
+	<description>
+		<type>TYPE_INFANTRY_SECTION</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+		<quality>QUALITY_UNTRAINED</quality>
+
+		<long_name>"Civilians"</long_name>
+		<short_name>Civilians</short_name>
+		<comment>3 MA37 assault rifles, 3 VK78 rifles, 6 M7 SMGs, untrained</comment>
+
+		<uniform>russian</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2513</year><number>10</number></data>
+		<data><month>6</month><year>2552</year><number>10</number></data>
+	</availability>
+
+	<man>
+		<job>JOB_SQUAD_LEADER</job>
+
+		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
+		<weapon><type>WEAPON_GRENADE_MOLOTOV_COCKTAIL</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>320</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_MOLOTOV_COCKTAIL</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+		<weapon><type>WEAPON_GRENADE_MOLOTOV_COCKTAIL</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_MOLOTOV_COCKTAIL</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_RIFLE_VK78</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_VK78</for><rounds>160</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>320</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+		<weapon><type>WEAPON_GRENADE_MOLOTOV_COCKTAIL</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_MOLOTOV_COCKTAIL</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_RIFLE_VK78</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_VK78</for><rounds>160</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>320</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+		<weapon><type>WEAPON_GRENADE_MOLOTOV_COCKTAIL</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_MOLOTOV_COCKTAIL</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_RIFLE_VK78</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_VK78</for><rounds>160</rounds></ammo>
+	</man>
+</squad>

@@ -16,7 +16,7 @@
 
 	<magazine>
 		<capacity>32</capacity>
-		<sound_reload>reload_magazine</sound_reload>
+		<sound_reload>reload_MA5</sound_reload>
 	</magazine>
 
 	<ammo>

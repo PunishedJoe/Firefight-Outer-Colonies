@@ -1,0 +1,31 @@
+<weapon>
+
+	<name>CMA VK78</name>
+	<type>WEAPON_RIFLE</type>
+
+	<dimensions>
+		<calibre>6.5</calibre>
+		<barrel_length>50</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_VK78</sound_shoot>
+		<rof>120</rof>
+		<reload>RELOAD_SEMI_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>20</capacity>
+		<sound_reload>reload_magazine</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_BALL</flavour><speed>750</speed><mass>0.014</mass><name>6.5x48mm</name></type>
+	</ammo>
+
+	<usage>
+		<countries>USA</countries>
+		<period>MODERN</period>
+	</usage>
+
+</weapon>

@@ -9,7 +9,7 @@
 	</dimensions>
 
 	<shoot>
-		<sound_shoot>shoot_bazooka</sound_shoot>
+		<sound_shoot>shoot_SPNKr</sound_shoot>
 		<range>400</range>
 		<rof>40</rof>
 		<muzzle_flash>no</muzzle_flash>
