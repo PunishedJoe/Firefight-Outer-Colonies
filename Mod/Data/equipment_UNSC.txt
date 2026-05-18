@@ -5,3 +5,8 @@ UNSC Marines AT Team 2525
 UNSC Marines HMG Team
 UNSC Army Troopers Squad
 ODST Combat Team
+
+//vehicles
+
+// Transports
+American-WarthogM831

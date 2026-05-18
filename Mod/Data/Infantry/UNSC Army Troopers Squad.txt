@@ -45,7 +45,7 @@
 		<weapon><type>WEAPON_LMG_M73</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
 
-		<ammo><for>WEAPON_LMG_M73</for><rounds>200</rounds></ammo>
+		<ammo><for>WEAPON_LMG_M73</for><rounds>300</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
 	</man>
 
@@ -90,7 +90,7 @@
 		<weapon><type>WEAPON_LMG_M73</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
 
-		<ammo><for>WEAPON_LMG_M73</for><rounds>500</rounds></ammo>
+		<ammo><for>WEAPON_LMG_M73</for><rounds>300</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
 	</man>
 
