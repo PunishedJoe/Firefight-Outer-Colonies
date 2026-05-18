@@ -1,0 +1,66 @@
+<squad>
+	<description>
+		<type>TYPE_ARMOURED_CAR</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+
+		<long_name>M831 Troop Transport Warthog</long_name>
+		<short_name>Transport Warthog</short_name>
+		<comment>A troop transport variant of the Warthog</comment>
+
+		<uniform>american_vehicle_crew</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2513</year><number>500</number></data>
+		<data><month>12</month><year>2552</year><number>500</number></data>
+	</availability>
+
+	<vehicle>
+		<attributes>
+			<image_profile>Profile-WarthogM831-URF.png</image_profile>
+			<weight>3000</weight>
+			<can_mount_infantry>yes</can_mount_infantry>
+		</attributes>
+
+		<drive>
+			<engine>
+				<name>Engine</name>
+				<horsepower>80</horsepower>
+				<reliability>RELIABILITY_AVERAGE</reliability>
+				<mount>MOUNT_FRONT</mount>
+				<rpm_idle>500</rpm_idle>
+				<rpm_limit>2800</rpm_limit>
+			</engine>
+
+			<gears>
+				<forwards>5</forwards>
+				<reverse>2</reverse>
+			</gears>
+
+			<steering>STEERING_FRONT_WHEELS</steering>
+
+		</drive>
+
+		<hull>
+			<image_view>Image-WarthogM831-URF.png</image_view>
+
+			<width>250</width>
+			<length>550</length>
+			<height>300</height>
+
+			<armour>				// @0 means vertically upright, @90 is horizontal
+				<front>100</front>
+				<side>100</side>
+				<rear>100</rear>
+				<top>0</top>
+			</armour>
+
+			<man>
+				<job>JOB_DRIVER</job>
+		<body_armour>yes</body_armour>
+				<weapon><type>WEAPON_SMG_M7</type></weapon>
+				<ammo><for>WEAPON_SMG_M7</for><rounds>180</rounds></ammo>
+			</man>
+		</hull>
+	</vehicle>
+</squad>
