@@ -22,7 +22,7 @@
 	</magazine>
 
 	<ammo>
-		<type><flavour>FLAVOUR_RPG</flavour><speed>200</speed><mass>4</mass><era>HEAT_ERA_MODERN</era><smoke_trail>yes</smoke_trail><HE>0.8</HE><name>HEAT</name></type>
+		<type><flavour>FLAVOUR_RPG</flavour><speed>200</speed><mass>4</mass><era>HEAT_ERA_MODERN</era><smoke_trail>yes</smoke_trail><HE>0.5</HE><name>HEAT</name></type>
 	</ammo>
 
 	<usage>
