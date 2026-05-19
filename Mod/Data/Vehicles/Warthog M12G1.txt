@@ -3,7 +3,7 @@
 		<type>TYPE_ARMOURED_CAR</type>
 		<nationality>NATIONALITY_AMERICAN</nationality>
 
-		<long_name>M12G1 Gauss Warthog</long_name>
+		<long_name>M12G1 Light Anti-Armour Vehicle</long_name>
 		<short_name>Gausshog</short_name>
 		<comment>A variant of the Warthog with a gauss turret. The main gun has night vision</comment>
 
