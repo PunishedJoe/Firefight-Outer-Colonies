@@ -10,5 +10,6 @@ ODST Combat Team 2525
 //vehicles
 Warthog M12
 Warthog M12 2525
+Warthog M12G1
 // Transports
 Warthog M831

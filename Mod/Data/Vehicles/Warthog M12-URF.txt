@@ -5,7 +5,7 @@
 
 		<long_name>M12 Force Application Vehicle</long_name>
 		<short_name>Warthog</short_name>
-		<comment>A troop transport variant of the Warthog</comment>
+		<comment>A light armoured car with an anti-air chaingun</comment>
 
 		<uniform>american_vehicle_crew</uniform>
 	</description>

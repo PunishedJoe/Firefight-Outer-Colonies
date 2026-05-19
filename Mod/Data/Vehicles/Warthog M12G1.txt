@@ -3,16 +3,16 @@
 		<type>TYPE_ARMOURED_CAR</type>
 		<nationality>NATIONALITY_AMERICAN</nationality>
 
-		<long_name>M12 Force Application Vehicle</long_name>
-		<short_name>Warthog</short_name>
-		<comment>A light armoured car with an anti-air chaingun</comment>
+		<long_name>M12G1 Gauss Warthog</long_name>
+		<short_name>Gausshog</short_name>
+		<comment>A variant of the Warthog with a gauss turret</comment>
 
 		<uniform>american_vehicle_crew</uniform>
 	</description>
 
 	<availability>
-		<data><month>1</month><year>2513</year><number>500</number></data>
-		<data><month>12</month><year>2524</year><number>500</number></data>
+		<data><month>1</month><year>2525</year><number>300</number></data>
+		<data><month>12</month><year>2552</year><number>300</number></data>
 	</availability>
 
 	<vehicle>
@@ -63,7 +63,7 @@
 		</hull>
 
 		<turret>
-			<image_view>Image-TurretM41.png</image_view>
+			<image_view>Image-TurretM68.png</image_view>
 
 			<diameter>240</diameter>
 			<height>80</height>
@@ -73,6 +73,7 @@
 			<rotate_time>4</rotate_time>
 			<rotate_left>120</rotate_left>
 			<rotate_right>120</rotate_right>
+			<night_vision>yes</night_vision>
 
 			<armour>				// @0 means vertically upright, @90 is horizontal
 				<front>10@45</front>
@@ -82,8 +83,8 @@
 				<mantlet>0</mantlet>
 			</armour>
 
-			<weapon><type>WEAPON_HMG_M41</type><offsetX>-3</offsetX><offsetY>-1</offsetY></weapon>
-			<ammo><for>WEAPON_HMG_M41</for><rounds>1000</rounds></ammo>
+			<weapon><type>WEAPON_CANNON_M68</type><offsetX>-3</offsetX><offsetY>-1</offsetY></weapon>
+			<ammo><for>WEAPON_CANNON_M68</for><flavour>FLAVOUR_AP</flavour><rounds>30</rounds></ammo>
 
 			<man>
 				<job>JOB_GUNNER</job>

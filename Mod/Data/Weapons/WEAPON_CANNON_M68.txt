@@ -1,0 +1,26 @@
+<weapon>
+
+	<name>M68 Asynchronous Linear-Induction Motor</name>
+	<type>WEAPON_CANNON</type>
+
+	<dimensions>
+		<calibre>25</calibre>
+		<barrel_length>300</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_stanchion</sound_shoot>
+		<rof>15</rof>
+		<reload>RELOAD_AUTOMATIC</reload>
+	</shoot>
+
+	<ammo>
+		<type><flavour>FLAVOUR_AP</flavour><speed>9999</speed><mass>3</mass><name></name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>
