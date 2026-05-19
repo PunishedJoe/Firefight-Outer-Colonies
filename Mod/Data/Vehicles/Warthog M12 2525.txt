@@ -1,0 +1,116 @@
+<squad>
+	<description>
+		<type>TYPE_ARMOURED_CAR</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+
+		<long_name>M12 Force Application Vehicle</long_name>
+		<short_name>Warthog</short_name>
+		<comment>A troop transport variant of the Warthog</comment>
+
+		<uniform>american_vehicle_crew</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2525</year><number>500</number></data>
+		<data><month>12</month><year>2552</year><number>500</number></data>
+	</availability>
+
+	<vehicle>
+		<attributes>
+			<image_profile>Profile-WarthogM12.png</image_profile>
+			<weight>3200</weight>
+		</attributes>
+
+		<drive>
+			<engine>
+				<name>Engine</name>
+				<horsepower>80</horsepower>
+				<reliability>RELIABILITY_AVERAGE</reliability>
+				<mount>MOUNT_MIDDLE</mount>
+				<rpm_idle>500</rpm_idle>
+				<rpm_limit>2800</rpm_limit>
+			</engine>
+
+			<gears>
+				<forwards>5</forwards>
+				<reverse>2</reverse>
+			</gears>
+
+			<steering>STEERING_FRONT_WHEELS</steering>
+
+		</drive>
+
+		<hull>
+			<image_view>Image-WarthogM12.png</image_view>
+
+			<width>250</width>
+			<length>550</length>
+			<height>300</height>
+
+			<armour>				// @0 means vertically upright, @90 is horizontal
+				<front>10</front>
+				<side>10</side>
+				<rear>10</rear>
+				<top>0</top>
+			</armour>
+
+			<man>
+				<job>JOB_DRIVER</job>
+		<body_armour>yes</body_armour>
+				<weapon><type>WEAPON_SMG_M7</type></weapon>
+				<ammo><for>WEAPON_SMG_M7</for><rounds>180</rounds></ammo>
+			</man>
+		</hull>
+
+		<turret>
+			<image_view>Image-TurretM41.png</image_view>
+
+			<diameter>240</diameter>
+			<height>80</height>
+			<offsetX>0</offsetX>
+			<offsetY>120</offsetY>
+
+			<rotate_time>4</rotate_time>
+			<rotate_left>120</rotate_left>
+			<rotate_right>120</rotate_right>
+
+			<armour>				// @0 means vertically upright, @90 is horizontal
+				<front>10@45</front>
+				<side>0</side>
+				<rear>0</rear>
+				<top>0</top>
+				<mantlet>0</mantlet>
+			</armour>
+
+			<weapon><type>WEAPON_HMG_M41</type><offsetX>-3</offsetX><offsetY>-1</offsetY></weapon>
+			<ammo><for>WEAPON_HMG_M41</for><rounds>1000</rounds></ammo>
+
+			<man>
+				<job>JOB_GUNNER</job>
+		<body_armour>yes</body_armour>
+				<weapon><type>WEAPON_SMG_M7</type></weapon>
+				<ammo><for>WEAPON_SMG_M7</for><rounds>120</rounds></ammo>
+			</man>
+		</turret>
+
+		<fixed_weapon>
+			<offsetX>45</offsetX>
+			<offsetY>-20</offsetY>
+			<offsetZ>200</offsetZ>
+
+			<rotate_time>5</rotate_time>
+			<rotate_left>0</rotate_left>
+			<rotate_right>160</rotate_right>
+
+			<weapon><type>WEAPON_RIFLE_MA5B</type><mount>ball</mount></weapon>
+			<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>600</rounds></ammo>
+
+			<man>
+				<job>JOB_GUNNER</job>
+		<body_armour>yes</body_armour>
+				<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
+				<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>240</rounds></ammo>
+			</man>
+		</fixed_weapon>
+	</vehicle>
+</squad>

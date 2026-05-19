@@ -17,7 +17,7 @@
 
 	<vehicle>
 		<attributes>
-			<image_profile>Profile-WarthogM831.png</image_profile>
+			<image_profile>Profile-WarthogM831-URF.png</image_profile>
 			<weight>3000</weight>
 			<can_mount_infantry>yes</can_mount_infantry>
 		</attributes>
@@ -27,7 +27,7 @@
 				<name>Engine</name>
 				<horsepower>80</horsepower>
 				<reliability>RELIABILITY_AVERAGE</reliability>
-				<mount>MOUNT_FRONT</mount>
+				<mount>MOUNT_MIDDLE</mount>
 				<rpm_idle>500</rpm_idle>
 				<rpm_limit>2800</rpm_limit>
 			</engine>
@@ -42,16 +42,16 @@
 		</drive>
 
 		<hull>
-			<image_view>Image-WarthogM831.png</image_view>
+			<image_view>Image-WarthogM831-URF.png</image_view>
 
 			<width>250</width>
 			<length>550</length>
 			<height>300</height>
 
 			<armour>				// @0 means vertically upright, @90 is horizontal
-				<front>100</front>
-				<side>100</side>
-				<rear>100</rear>
+				<front>10</front>
+				<side>10</side>
+				<rear>10</rear>
 				<top>0</top>
 			</armour>
 

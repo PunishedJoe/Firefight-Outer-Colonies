@@ -8,6 +8,8 @@
 		<increment>5</increment>
 	</years>
 
+	<allow_artillery>no</allow_artillery>
+
 	<nationality>
 		<name>UNSC</name>
 		<surnames>surnames_american.txt</surnames>
@@ -56,7 +58,7 @@
 			<2>Rebel</2>
 			<3>Veteran</3>
 			<4>Elite</4>
-			<5>Cell Leader</5>
+			<5>Elite</5>
 		</ranks>
 
 		<default_images>

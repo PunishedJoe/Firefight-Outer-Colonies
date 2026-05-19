@@ -1,0 +1,30 @@
+<weapon>
+
+	<name>M41 "Vulcan" LAAG</name>
+	<type>WEAPON_HMG</type>
+
+	<dimensions>
+		<calibre>12.7</calibre>
+		<barrel_length>64</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_M247H</sound_shoot>
+		<rof>500</rof>
+		<reload>RELOAD_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>100</capacity>
+		<sound_reload>reload_magazine</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_BALL</flavour><speed>890</speed><mass>0.045</mass><name>12.7x99mm</name></type>
+	</ammo>
+
+	<usage>
+		<countries>USA|FRANCE|RUSSIA</countries>
+	</usage>
+
+</weapon>

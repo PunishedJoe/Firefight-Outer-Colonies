@@ -5,7 +5,7 @@
 		<quality>QUALITY_REGULAR</quality>
 
 		<long_name>URF Rebel Squad</long_name>
-		<short_name>Rebel Squad</short_name>
+		<short_name>Rebels</short_name>
 		<comment>6 MA37 assault rifles, 6 M7 SMGs</comment>
 
 		<uniform>russian</uniform>
