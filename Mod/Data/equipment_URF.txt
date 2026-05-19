@@ -1,6 +1,6 @@
 // infantry
 URF Rebel Squad
-URF Traitor Marine Squad
+URF Tank Busters
 URF Veterans
 URF GPMG Team
 URF Fake Civilians

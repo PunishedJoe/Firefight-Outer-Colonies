@@ -12,13 +12,14 @@
 	</description>
 
 	<availability>
-		<data><month>1</month><year>2525</year><number>3</number></data>
-		<data><month>6</month><year>2552</year><number>3</number></data>
+		<data><month>1</month><year>2525</year><number>400</number></data>
+		<data><month>12</month><year>2552</year><number>400</number></data>
 	</availability>
 
 	<man>
 		<job>JOB_SQUAD_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
 		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
@@ -28,7 +29,8 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -38,7 +40,8 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -49,7 +52,8 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_DMR_M392</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -61,7 +65,8 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -71,7 +76,8 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -81,7 +87,8 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_RPG_SPNKR</type></weapon>
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
@@ -92,7 +99,8 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_DMR_M392</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>

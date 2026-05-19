@@ -12,8 +12,8 @@
 	</description>
 
 	<availability>
-		<data><month>1</month><year>2513</year><number>5</number></data>
-		<data><month>6</month><year>2552</year><number>5</number></data>
+		<data><month>1</month><year>2513</year><number>500</number></data>
+		<data><month>12</month><year>2552</year><number>500</number></data>
 	</availability>
 
 	<hmg>
