@@ -6,7 +6,7 @@
 
 		<long_name>ODST Combat Team (2525)</long_name>
 		<short_name>ODST Combat Team</short_name>
-		<comment>1 MA5B assault rifle, 5 M7 SMG's, 2 M392 DMRs, 1 SPNKR RPG</comment>
+		<comment>1 MA5B assault rifle, 5 M7 SMG's, 2 M392 DMRs, 1 SPNKR RPG. Units have night vision</comment>
 
 		<uniform>american_marines</uniform>
 	</description>
@@ -22,9 +22,11 @@
 		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
+		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
 		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
 
 		<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
 	</man>
 
@@ -34,9 +36,11 @@
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
 
 		<ammo><for>WEAPON_SMG_M7S</for><rounds>600</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
 	</man>
 
 	<man>
@@ -45,9 +49,11 @@
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
 
 		<ammo><for>WEAPON_SMG_M7S</for><rounds>600</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
 	</man>
 
 	<man>
@@ -70,9 +76,11 @@
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
 
 		<ammo><for>WEAPON_SMG_M7S</for><rounds>600</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
 	</man>
 
 	<man>
@@ -81,9 +89,11 @@
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
 
 		<ammo><for>WEAPON_SMG_M7S</for><rounds>600</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
 	</man>
 
 	<man>
