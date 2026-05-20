@@ -6,7 +6,7 @@
 
 		<long_name>UNSC Army Troopers Squad</long_name>
 		<short_name>Army Troopers</short_name>
-		<comment>6 MA37 assault rifles, 3 M392 DMRs, 2 M73 LMGs, 1 M7 SMG, 1 SPNKR RPGs</comment>
+		<comment>6 MA37 assault rifles, 3 M392 DMRs, 2 M73 LMGs, 1 M7 SMG, 1 SPNKR RPG</comment>
 
 		<uniform>american</uniform>
 	</description>
@@ -18,7 +18,7 @@
 
 	<man>
 		<job>JOB_SQUAD_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
@@ -29,7 +29,7 @@
 
 	<man>
 		<job>JOB_SQUAD_MG_ASSISTANT</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -40,7 +40,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_LMG_M73</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -51,7 +51,7 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_DMR_M392</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -63,7 +63,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -74,7 +74,7 @@
 
 	<man>
 		<job>JOB_SQUAD_MG_ASSISTANT</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -85,7 +85,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_LMG_M73</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -96,7 +96,7 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_DMR_M392</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -108,7 +108,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -118,7 +118,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -128,7 +128,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RPG_SPNKR</type></weapon>
 		<weapon><type>WEAPON_SMG_M7</type></weapon>
@@ -139,7 +139,7 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_DMR_M392</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>

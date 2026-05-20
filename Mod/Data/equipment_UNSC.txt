@@ -4,6 +4,8 @@ UNSC Marines Fireteam 2525
 UNSC Marines AT Team 2525
 UNSC Marines HMG Team
 UNSC Army Troopers Squad
+UNSC Army Troopers Gun Group
+UNSC Army Troopers AT Team
 ODST Combat Team
 ODST Combat Team 2525
 ODST Sniper Team

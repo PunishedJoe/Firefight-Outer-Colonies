@@ -1,0 +1,31 @@
+<weapon>
+
+	<name>HMG-38</name>
+	<type>WEAPON_LMG</type>
+
+	<dimensions>
+		<calibre>6.5</calibre>
+		<barrel_length>64</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_MA5B</sound_shoot>
+		<rof>500</rof>
+		<reload>RELOAD_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>56</capacity>
+		<sound_reload>reload_magazine</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_BALL</flavour><speed>750</speed><mass>0.011</mass><name>6.5x48mm</name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>

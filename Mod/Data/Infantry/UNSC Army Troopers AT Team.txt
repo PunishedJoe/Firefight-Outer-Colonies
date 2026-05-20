@@ -1,0 +1,60 @@
+<squad>
+	<description>
+		<type>TYPE_INFANTRY_SECTION</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+		<quality>QUALITY_REGULAR</quality>
+
+		<long_name>UNSC Army Troopers AT Team</long_name>
+		<short_name>Troopers AT</short_name>
+		<comment>2 SPNKR RPGs, 2 M7 SMGs,  1 MA37 assault rifle, 1 M392 DMR</comment>
+
+		<uniform>american</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2513</year><number>500</number></data>
+		<data><month>12</month><year>2524</year><number>500</number></data>
+	</availability>
+
+	<man>
+		<job>JOB_SQUAD_LEADER</job>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>320</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_RPG_SPNKR</type></weapon>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_RPG_SPNKR</for><rounds>4</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_RPG_SPNKR</type></weapon>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+
+		<ammo><for>WEAPON_RPG_SPNKR</for><rounds>4</rounds></ammo>
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+	</man>
+
+	<man>
+		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_DMR_M392</type></weapon>
+		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_DMR_M392</for><rounds>150</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+</squad>

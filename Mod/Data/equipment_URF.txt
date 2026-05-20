@@ -4,6 +4,8 @@ URF Tank Busters
 URF Veterans
 URF GPMG Team
 URF Fake Civilians
+URF Rebel Gun Group
+URF Guerrillas
 
 //vehicles
 Warthog M12-URF

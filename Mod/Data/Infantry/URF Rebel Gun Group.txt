@@ -1,0 +1,73 @@
+<squad>
+	<description>
+		<type>TYPE_INFANTRY_SECTION</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+		<quality>QUALITY_REGULAR</quality>
+
+		<long_name>URF Rebel Gun Group</long_name>
+		<short_name>Rebel Gunners</short_name>
+		<comment>3 HMG-38s, 1 M7 SMG, 1 VK78, 1 MA37 assault rifle</comment>
+
+		<uniform>russian</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2513</year><number>500</number></data>
+		<data><month>12</month><year>2552</year><number>500</number></data>
+	</availability>
+
+	<man>
+		<job>JOB_SQUAD_LEADER</job>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_RIFLE_VK78</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_VK78</for><rounds>120</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_LMG_HMG38</type></weapon>
+
+		<ammo><for>WEAPON_LMG_HMG38</for><rounds>168</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_LMG_HMG38</type></weapon>
+
+		<ammo><for>WEAPON_LMG_HMG38</for><rounds>168</rounds></ammo>
+	</man>
+
+	<man>
+		<weapon><type>WEAPON_LMG_HMG38</type></weapon>
+
+		<ammo><for>WEAPON_LMG_HMG38</for><rounds>168</rounds></ammo>
+	</man>
+
+	<man>
+		<job>JOB_SQUAD_MG_ASSISTANT</job>
+
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_LMG_HMG38</for><rounds>112</rounds></ammo>
+	</man>
+
+	<man>
+		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
+		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>150</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+</squad>

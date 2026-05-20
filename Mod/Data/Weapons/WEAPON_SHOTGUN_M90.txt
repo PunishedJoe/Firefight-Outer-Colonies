@@ -1,0 +1,31 @@
+<weapon>
+
+	<name>M90 CAWS</name>
+	<type>WEAPON_SHOTGUN</type>
+
+	<dimensions>
+		<calibre>7.62</calibre>
+		<barrel_length>45</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_M90</sound_shoot>
+		<rof>45</rof>
+		<reload>RELOAD_SEMI_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>12</capacity>
+		<sound_reload>reload_M90</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_PELLETS</flavour><speed>600</speed><mass>0.011</mass><name></name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>
