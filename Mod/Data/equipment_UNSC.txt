@@ -6,6 +6,7 @@ UNSC Marines HMG Team
 UNSC Army Troopers Squad
 ODST Combat Team
 ODST Combat Team 2525
+ODST Sniper Team
 
 //vehicles
 Warthog M12

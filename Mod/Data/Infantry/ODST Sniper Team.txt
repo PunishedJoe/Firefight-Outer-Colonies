@@ -1,0 +1,46 @@
+<squad>
+	<description>
+		<type>TYPE_INFANTRY_SECTION</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+		<quality>QUALITY_ELITE</quality>
+
+		<long_name>ODST Sniper Team</long_name>
+		<short_name>ODST Snipers</short_name>
+		<comment>1 SRS99C anti-materiel rifle, 1 M7/S. Units have night vision</comment>
+
+		<uniform>american_marines</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2513</year><number>300</number></data>
+		<data><month>12</month><year>2552</year><number>300</number></data>
+	</availability>
+
+	<man>
+		<job>JOB_SQUAD_LEADER</job>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
+
+		<weapon><type>WEAPON_SMG_M7S</type></weapon>
+		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_SMG_M7S</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
+
+		<weapon><type>WEAPON_AT_RIFLE_SRS99C</type></weapon>
+		<weapon><type>WEAPON_PISTOL_M6SOCOM</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_AT_RIFLE_SRS99C</for><rounds>16</rounds></ammo>
+		<ammo><for>WEAPON_AT_RIFLE_SRS99C</for><flavour>FLAVOUR_AT_RIFLE_HE</flavour><rounds>16</rounds></ammo>
+		<ammo><for>WEAPON_PISTOL_M6SOCOM</for><rounds>36</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+</squad>

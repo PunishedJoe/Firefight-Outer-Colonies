@@ -1,0 +1,31 @@
+<weapon>
+
+	<name>M6C</name>
+	<type>WEAPON_PISTOL</type>
+
+	<dimensions>
+		<calibre>12.7</calibre>
+		<barrel_length>12</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_M6C</sound_shoot>
+		<rof>180</rof>
+		<reload>RELOAD_SEMI_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>12</capacity>
+		<sound_reload>reload_M6C</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_BALL</flavour><speed>400</speed><mass>0.01</mass><name></name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>
