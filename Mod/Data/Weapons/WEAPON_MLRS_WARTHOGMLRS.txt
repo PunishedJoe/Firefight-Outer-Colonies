@@ -1,0 +1,30 @@
+<weapon>
+
+	<name>Improvised warthog LMRS turret</name>
+	<type>WEAPON_MLRS</type>
+
+	<dimensions>
+		<calibre>220</calibre>
+		<barrel_length>150</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_rocket</sound_shoot>
+		<rof>60</rof>
+		<reload>RELOAD_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>12</capacity>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_ROCKET_HE</flavour><speed>400</speed><mass>8</mass><smoke_trail>yes</smoke_trail><HE>4</HE><name></name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>

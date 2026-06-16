@@ -9,5 +9,6 @@ URF Guerrillas
 
 //vehicles
 Warthog M12-URF
+Warthog M12MLRS-URF
 // Transports
 Warthog M831-URF
