@@ -1,0 +1,111 @@
+<squad>
+	<description>
+		<type>TYPE_TANK</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+
+		<long_name>Scorpion M808B</long_name>
+		<short_name>Scorpion</short_name>
+		<comment>The standard issue tank for the USNC before most people alive were even born.</comment>
+
+		<uniform>american_vehicle_crew</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2513</year><number>100</number></data>
+		<data><month>12</month><year>2552</year><number>100</number></data>
+	</availability>
+
+	<vehicle>
+		<attributes>
+			<image_profile>Profile-ScorpionM808B.png</image_profile>
+			<weight>66000</weight>
+		</attributes>
+
+		<drive>
+			<engine>
+				<name>Enginw</name>
+				<horsepower>1000</horsepower>
+				<reliability>RELIABILITY_AVERAGE</reliability>
+				<rpm_idle>500</rpm_idle>
+				<rpm_limit>2800</rpm_limit>
+			</engine>
+
+			<gears>
+				<forwards>5</forwards>
+				<reverse>2</reverse>
+			</gears>
+
+			<steering>STEERING_CLUTCH_AND_BRAKE</steering>
+
+		</drive>
+
+		<hull>
+			<image_view>Image-ScorpionM808B.png</image_view>
+
+			<width>400</width>
+			<length>800</length>
+			<height>200</height>
+
+			<armour>				// @0 means vertically upright, @90 is horizontal
+				<upper_front>400@45</upper_front>
+				<lower_front>300@-39</lower_front>
+				<upper_side>300@10</upper_side>
+				<lower_side>300</lower_side>
+				<upper_rear>200@10</upper_rear>
+				<lower_rear>200</lower_rear>
+				<top>100</top>
+			</armour>
+
+			<man>
+				<job>JOB_DRIVER</job>
+		<body_armour>yes</body_armour>
+		<night_vision>yes</night_vision>
+				<weapon><type>WEAPON_SMG_M7</type></weapon>
+				<ammo><for>WEAPON_SMG_M7</for><rounds>480</rounds></ammo>
+			</man>
+		</hull>
+
+		<turret>
+			<image_view>Image-TurretM808B.png</image_view>
+
+			<diameter>240</diameter>
+			<height>100</height>
+			<offsetX>0</offsetX>
+			<offsetY>175</offsetY>
+
+			<rotate_time>14</rotate_time>
+			<night_vision>yes</night_vision>
+
+			<armour>				// @0 means vertically upright, @90 is horizontal
+				<upper_front>100@45</upper_front>
+				<lower_front>100@-45</lower_front>
+				<side>70@15</side>
+				<upper_rear>50@15</upper_rear>
+				<lower_rear>50@-15</lower_rear>
+				<top>20</top>
+				<mantlet>0</mantlet>
+			</armour>
+
+			<weapon><type>WEAPON_CANNON_M512</type><offsetX>-1</offsetX><offsetY>-528</offsetY></weapon>
+			<weapon><type>WEAPON_HMG_M247H</type><offsetX>38</offsetX><offsetY>-191</offsetY></weapon>
+			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_APFSDS</flavour><rounds>12</rounds></ammo>
+			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_HEAT</flavour><rounds>12</rounds></ammo>
+			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_CANISTER</flavour><rounds>8</rounds></ammo>
+			<ammo><for>WEAPON_HMG_M247H</for><rounds>400</rounds></ammo>
+
+			<man>
+				<job>JOB_GUNNER</job>
+		<body_armour>yes</body_armour>
+				<weapon><type>WEAPON_SMG_M7</type></weapon>
+				<ammo><for>WEAPON_SMG_M7</for><rounds>480</rounds></ammo>
+			</man>
+
+			<man>
+				<job>JOB_COMMANDER</job>
+		<body_armour>yes</body_armour>
+				<weapon><type>WEAPON_SMG_M7</type></weapon>
+				<ammo><for>WEAPON_SMG_M7</for><rounds>480</rounds></ammo>
+			</man>
+		</turret>
+	</vehicle>
+</squad>

@@ -15,7 +15,7 @@
 	</shoot>
 
 	<ammo>
-		<type><flavour>FLAVOUR_AP</flavour><speed>9999</speed><mass>3</mass><name></name></type>
+		<type><flavour>FLAVOUR_AP</flavour><speed>1200</speed><mass>1</mass><name></name></type>
 	</ammo>
 
 	<usage>

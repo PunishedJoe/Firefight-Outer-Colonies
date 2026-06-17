@@ -1,0 +1,27 @@
+<weapon>
+
+	<name>M512 smooth-bore high-velocity cannon</name>
+	<type>WEAPON_CANNON</type>
+
+	<dimensions>
+		<calibre>90</calibre>
+		<barrel_length>150</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_cannon</sound_shoot>
+		<rof>15</rof>
+	</shoot>
+
+	<ammo>
+		<type><flavour>FLAVOUR_APFSDS</flavour><speed>700</speed><mass>10</mass><name>DART</name></type>
+		<type><flavour>FLAVOUR_HEAT</flavour><speed>700</speed><mass>10</mass><era>HEAT_ERA_MODERN</era><HE>6</HE><name>HEAT</name></type>
+		<type><flavour>FLAVOUR_CANISTER</flavour><speed>100</speed><mass>10</mass><name>CAN</name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>

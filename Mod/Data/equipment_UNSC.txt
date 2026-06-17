@@ -14,5 +14,6 @@ ODST Sniper Team
 Warthog M12
 Warthog M12 2525
 Warthog M12G1
+Scorpion M808B
 // Transports
 Warthog M831
