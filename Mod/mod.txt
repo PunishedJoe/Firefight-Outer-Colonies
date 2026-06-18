@@ -15,8 +15,8 @@
 		<surnames>surnames_american.txt</surnames>
 
 		<flags>
-			<static>flag_USA_WW2.png</static>
-			<animated>flag_animated_USA.png</animated>
+			<static>flag_UNSC.png</static>
+			<animated>flag_animated_blue.png</animated>
 		</flags>
 
 		<equipment>equipment_UNSC.txt</equipment>
@@ -45,8 +45,8 @@
 		<surnames>surnames_american.txt</surnames>
 
 		<flags>
-			<static>flag_USA_WW2.png</static>
-			<animated>flag_animated_USA.png</animated>
+			<static>flag_URF.png</static>
+			<animated>flag_animated_red.png</animated>
 		</flags>
 
 		<equipment>equipment_URF.txt</equipment>

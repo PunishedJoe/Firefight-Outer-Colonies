@@ -23,7 +23,7 @@
 
 		<drive>
 			<engine>
-				<name>Enginw</name>
+				<name>Engine</name>
 				<horsepower>1000</horsepower>
 				<reliability>RELIABILITY_AVERAGE</reliability>
 				<rpm_idle>500</rpm_idle>
