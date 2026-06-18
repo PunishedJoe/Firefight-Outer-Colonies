@@ -1,0 +1,49 @@
+<squad>
+	<description>
+		<type>TYPE_INFANTRY_SECTION</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+		<quality>QUALITY_REGULAR</quality>
+
+		<long_name>URF Flamethrower Squad</long_name>
+		<short_name>URF Flamers</short_name>
+		<comment>1 M7057 flamethrower, 2 MA37 assault rifles, 1 M6C pistol</comment>
+
+		<uniform>russian</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2513</year><number>200</number></data>
+		<data><month>12</month><year>2552</year><number>200</number></data>
+	</availability>
+
+	<man>
+		<job>JOB_SQUAD_LEADER</job>
+                <body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>320</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+                <body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_FLAMETHROWER_PORTABLE_M7057</type></weapon>
+		<weapon><type>WEAPON_PISTOL_M6C</type></weapon>
+
+		<ammo><for>WEAPON_FLAMETHROWER_PORTABLE_M7057</for><rounds>180</rounds></ammo>
+		<ammo><for>WEAPON_PISTOL_M6C</for><rounds>48</rounds></ammo>
+	</man>
+
+	<man>
+                <body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>320</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+</squad>

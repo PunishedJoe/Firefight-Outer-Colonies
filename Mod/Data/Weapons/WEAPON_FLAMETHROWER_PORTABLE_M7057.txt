@@ -1,0 +1,26 @@
+<weapon>
+
+	<name>M7057 Defoliant Projector</name>
+	<type>WEAPON_FLAMETHROWER_PORTABLE</type>
+
+	<dimensions>
+		<barrel_length>70</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_flamethrower</sound_shoot>
+		<rof>360</rof>
+		<muzzle_flash>no</muzzle_flash>
+		<reload>RELOAD_AUTOMATIC</reload>
+	</shoot>
+
+	<ammo>
+		<type><flavour>FLAVOUR_FLAME</flavour><speed>40</speed><mass>0</mass><name></name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>

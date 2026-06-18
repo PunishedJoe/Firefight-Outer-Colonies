@@ -10,6 +10,7 @@
 
 	<shoot>
 		<sound_shoot>shoot_M392</sound_shoot>
+		<range>400</range>
 		<rof>100</rof>
 		<reload>RELOAD_SEMI_AUTOMATIC</reload>
 	</shoot>
@@ -24,8 +25,8 @@
 	</ammo>
 
 	<usage>
-		<countries>USA</countries>
 		<period>MODERN</period>
+		<countries>USA</countries>
 	</usage>
 
 </weapon>

@@ -6,6 +6,7 @@ URF GPMG Team
 URF Fake Civilians
 URF Rebel Gun Group
 URF Guerrillas
+URF Flamers
 
 //vehicles
 Warthog M12-URF
