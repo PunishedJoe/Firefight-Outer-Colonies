@@ -47,12 +47,12 @@
 			<height>200</height>
 
 			<armour>				// @0 means vertically upright, @90 is horizontal
-				<upper_front>400@45</upper_front>
-				<lower_front>300@-39</lower_front>
-				<upper_side>300@10</upper_side>
-				<lower_side>300</lower_side>
-				<upper_rear>200@10</upper_rear>
-				<lower_rear>200</lower_rear>
+				<upper_front>500@45</upper_front>
+				<lower_front>400@-39</lower_front>
+				<upper_side>350@10</upper_side>
+				<lower_side>350</lower_side>
+				<upper_rear>250@10</upper_rear>
+				<lower_rear>250</lower_rear>
 				<top>100</top>
 			</armour>
 

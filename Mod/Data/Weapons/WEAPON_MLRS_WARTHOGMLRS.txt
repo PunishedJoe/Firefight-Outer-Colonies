@@ -19,7 +19,7 @@
 	</magazine>
 
 	<ammo>
-		<type><flavour>FLAVOUR_ROCKET_HE</flavour><speed>300</speed><mass>8</mass><smoke_trail>yes</smoke_trail><HE>4</HE><name></name></type>
+		<type><flavour>FLAVOUR_ROCKET_HE</flavour><speed>300</speed><mass>8</mass><smoke_trail>yes</smoke_trail><HE>3</HE><name></name></type>
 	</ammo>
 
 	<usage>
