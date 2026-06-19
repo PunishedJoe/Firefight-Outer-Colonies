@@ -5,7 +5,7 @@
 
 		<long_name>M808B Scorpion</long_name>
 		<short_name>Scorpion</short_name>
-		<comment>The standard issue tank for the USNC before most people alive were even born. Has a 90mm cannon with 12 APFSDS, 12 HEAT, and 8 CAN shells, and a coaxial M247T HMG</comment>
+		<comment>The standard issue tank for the UNSC before most people alive were even born. Has a 90mm cannon with 12 APFSDS, 12 HEAT, and 8 CAN shells, and a coaxial M247T HMG</comment>
 
 		<uniform>american_vehicle_crew</uniform>
 	</description>
