@@ -5,7 +5,7 @@
 
 		<long_name>M808B Scorpion</long_name>
 		<short_name>Scorpion</short_name>
-		<comment>The standard issue tank for the UNSC before most people alive were even born. Has a 90mm cannon with 12 APFSDS, 12 HEAT, and 8 CAN shells, and a coaxial M247T HMG</comment>
+		<comment>The standard issue tank for the UNSC before most people alive were even born. Has a 90mm cannon with 32 APFSDS, 32 HEAT, and 18 CAN shells, and a coaxial M247T HMG</comment>
 
 		<uniform>american_vehicle_crew</uniform>
 	</description>
@@ -88,10 +88,10 @@
 
 			<weapon><type>WEAPON_CANNON_M512</type><offsetX>-1</offsetX><offsetY>-528</offsetY></weapon>
 			<weapon><type>WEAPON_HMG_M247H</type><offsetX>38</offsetX><offsetY>-191</offsetY></weapon>
-			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_APFSDS</flavour><rounds>12</rounds></ammo>
-			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_HEAT</flavour><rounds>12</rounds></ammo>
-			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_CANISTER</flavour><rounds>8</rounds></ammo>
-			<ammo><for>WEAPON_HMG_M247H</for><rounds>400</rounds></ammo>
+			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_APFSDS</flavour><rounds>32</rounds></ammo>
+			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_HEAT</flavour><rounds>32</rounds></ammo>
+			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_CANISTER</flavour><rounds>18</rounds></ammo>
+			<ammo><for>WEAPON_HMG_M247H</for><rounds>1000</rounds></ammo>
 
 			<man>
 				<job>JOB_GUNNER</job>
