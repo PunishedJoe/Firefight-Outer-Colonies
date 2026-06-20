@@ -6,7 +6,7 @@
 
 		<long_name>URF Veterans</long_name>
 		<short_name>URF Veterans</short_name>
-		<comment>4 MA37 assault rifles, 4 M7 SMGs, one M319 grenade launcher, superior troops</comment>
+		<comment>4 MA37 assault rifles, 4 M7 SMGs, and 1 M319 grenade launcher with 8 HE, 8 HEAT, and 8 smoke rounds. Superior quality</comment>
 
 		<uniform>russian</uniform>
 	</description>
@@ -18,17 +18,19 @@
 
 	<man>
 		<job>JOB_SQUAD_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_LAUNCHER_M319</type></weapon>
 
 		<ammo><for>WEAPON_RIFLE_MA37</for><rounds>320</rounds></ammo>
-		<ammo><for>WEAPON_GRENADE_LAUNCHER_M319</for><rounds>16</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_LAUNCHER_M319</for><rounds>8</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_LAUNCHER_M319</for><flavour>FLAVOUR_GRENADE_HEAT</flavour><rounds>8</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_LAUNCHER_M319</for><flavour>FLAVOUR_GRENADE_SMOKE</flavour><rounds>8</rounds></ammo>
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_SMG_M7</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -38,7 +40,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_SMG_M7</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -49,7 +51,7 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -61,7 +63,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -71,7 +73,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_SMG_M7</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -81,7 +83,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_SMG_M7</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -92,7 +94,7 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>

@@ -6,7 +6,7 @@
 
 		<long_name>UNSC Marines Fireteam (2525)</long_name>
 		<short_name>Marines Fireteam</short_name>
-		<comment>3 MA5B assault rifles, 1 M392 DMR. Superior quality</comment>
+		<comment>3 MA5B assault rifles, 1 M392 DMR, and 1 M301 UGL with 16 HE and 4 smoke rounds. Superior quality</comment>
 
 		<uniform>american_marines</uniform>
 	</description>
@@ -18,17 +18,18 @@
 
 	<man>
 		<job>JOB_SQUAD_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
-		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+		<weapon><type>WEAPON_GRENADE_LAUNCHER_M301</type></weapon>
 
 		<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>480</rounds></ammo>
-		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_LAUNCHER_M301</for><rounds>16</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_LAUNCHER_M301</for><flavour>FLAVOUR_GRENADE_SMOKE</flavour><rounds>4</rounds></ammo>
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -38,7 +39,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
@@ -49,7 +50,7 @@
 
 	<man>
 		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_DMR_M392</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>

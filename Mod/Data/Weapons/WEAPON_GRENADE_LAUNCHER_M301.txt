@@ -1,0 +1,27 @@
+<weapon>
+
+	<name>M301 UGL</name>
+	<type>WEAPON_GRENADE_LAUNCHER</type>
+
+	<dimensions>
+		<calibre>40</calibre>
+		<barrel_length>70</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_grenade_launcher</sound_shoot>
+		<rof>10</rof>
+		<muzzle_flash>no</muzzle_flash>
+	</shoot>
+
+	<ammo>
+		<type><flavour>FLAVOUR_GRENADE_HE</flavour><speed>76</speed><mass>0.5</mass><HE>0.113</HE><name>HE Grenade</name></type>
+		<type><flavour>FLAVOUR_GRENADE_SMOKE</flavour><speed>76</speed><mass>0.5</mass><name>Smoke Grenade</name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>

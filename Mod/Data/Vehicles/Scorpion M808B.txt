@@ -87,11 +87,11 @@
 			</armour>
 
 			<weapon><type>WEAPON_CANNON_M512</type><offsetX>-1</offsetX><offsetY>-528</offsetY></weapon>
-			<weapon><type>WEAPON_HMG_M247H</type><offsetX>38</offsetX><offsetY>-191</offsetY></weapon>
+			<weapon><type>WEAPON_HMG_M247GPMG</type><offsetX>38</offsetX><offsetY>-191</offsetY></weapon>
 			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_APFSDS</flavour><rounds>32</rounds></ammo>
 			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_HEAT</flavour><rounds>32</rounds></ammo>
 			<ammo><for>WEAPON_CANNON_M512</for><flavour>FLAVOUR_CANISTER</flavour><rounds>18</rounds></ammo>
-			<ammo><for>WEAPON_HMG_M247H</for><rounds>1000</rounds></ammo>
+			<ammo><for>WEAPON_HMG_M247GPMG</for><rounds>1500</rounds></ammo>
 
 			<man>
 				<job>JOB_GUNNER</job>
