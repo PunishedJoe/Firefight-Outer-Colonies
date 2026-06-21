@@ -1,6 +1,6 @@
 <squad>
 	<description>
-		<type>TYPE_INFANTRY_SECTION</type>
+		<type>TYPE_GRENADE_LAUNCHER</type>
 		<nationality>NATIONALITY_AMERICAN</nationality>
 		<quality>QUALITY_SUPERIOR</quality>
 

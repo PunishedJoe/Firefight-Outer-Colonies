@@ -7,6 +7,7 @@ URF Fake Civilians
 URF Rebel Gun Group
 URF Guerrillas
 URF Flamers
+URF Recon Pathfinders
 
 //vehicles
 Warthog M12-URF

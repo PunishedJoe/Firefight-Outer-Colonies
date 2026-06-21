@@ -1,6 +1,6 @@
 <squad>
 	<description>
-		<type>TYPE_INFANTRY_SECTION</type>
+		<type>TYPE_FLAMETHROWER</type>
 		<nationality>NATIONALITY_AMERICAN</nationality>
 		<quality>QUALITY_REGULAR</quality>
 
@@ -18,7 +18,7 @@
 
 	<man>
 		<job>JOB_SQUAD_LEADER</job>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
@@ -28,7 +28,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_FLAMETHROWER_PORTABLE_M7057</type></weapon>
 		<weapon><type>WEAPON_PISTOL_M6C</type></weapon>
@@ -38,7 +38,7 @@
 	</man>
 
 	<man>
-                <body_armour>yes</body_armour>
+		<body_armour>yes</body_armour>
 
 		<weapon><type>WEAPON_RIFLE_MA37</type></weapon>
 		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
