@@ -5,7 +5,7 @@
 	<years>
 		<start>2515</start>
 		<end>2552</end>
-		<increment>5</increment>
+		<increment>10</increment>
 	</years>
 
 	<allow_artillery>no</allow_artillery>

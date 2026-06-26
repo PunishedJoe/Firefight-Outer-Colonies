@@ -12,5 +12,6 @@ URF Recon Pathfinders
 //vehicles
 Warthog M12-URF
 Warthog M12MLRS-URF
+Scorpion M808B-URF
 // Transports
 Warthog M831-URF

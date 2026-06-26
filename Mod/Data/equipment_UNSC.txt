@@ -2,6 +2,7 @@
 UNSC Marines Squad 2525
 UNSC Marines Fireteam 2525
 UNSC Marines AT Team 2525
+UNSC Marines Spartan Laser Team 2525
 UNSC Marines HMG Team
 UNSC Army Troopers Squad
 UNSC Army Troopers Gun Group

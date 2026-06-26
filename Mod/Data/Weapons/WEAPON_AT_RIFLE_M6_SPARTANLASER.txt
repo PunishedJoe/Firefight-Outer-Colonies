@@ -1,0 +1,31 @@
+<weapon>
+
+	<name>M6 G/GNR "Spartan Laser"</name>
+	<type>WEAPON_AT_RIFLE</type>
+
+	<dimensions>
+		<calibre>100</calibre>
+		<barrel_length>70</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_stanchion</sound_shoot>
+		<rof>10</rof>
+		<muzzle_flash>no</muzzle_flash>
+		<reload>RELOAD_SEMI_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<sound_reload>reload_magazine</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_AT_RIFLE_AP</flavour><speed>2000</speed><mass>1.5</mass><name></name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>

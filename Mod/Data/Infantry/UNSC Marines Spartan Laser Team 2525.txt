@@ -1,0 +1,52 @@
+<squad>
+	<description>
+		<type>TYPE_BAZOOKA</type>
+		<nationality>NATIONALITY_AMERICAN</nationality>
+		<quality>QUALITY_REGULAR</quality>
+
+		<long_name>UNSC Marines Spartan Laser Team (2525)</long_name>
+		<short_name>Marines Spartan Laser</short_name>
+		<comment>1 MA5B assault rifle, 1 M392 DMR, 1 M7 SMG, 1 M6 G/GNR "Spartan Laser"</comment>
+
+		<uniform>american_marines</uniform>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2525</year><number>600</number></data>
+		<data><month>12</month><year>2552</year><number>600</number></data>
+	</availability>
+
+	<man>
+		<job>JOB_SQUAD_LEADER</job>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_RIFLE_MA5B</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_RIFLE_MA5B</for><rounds>480</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+
+	<man>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_AT_RIFLE_M6_SPARTANLASER</type></weapon>
+		<weapon><type>WEAPON_SMG_M7</type></weapon>
+
+		<ammo><for>WEAPON_AT_RIFLE_M6_SPARTANLASER</for><rounds>10</rounds></ammo>
+		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
+	</man>
+
+	<man>
+		<job>JOB_SQUAD_ASSISTANT_LEADER</job>
+		<body_armour>yes</body_armour>
+
+		<weapon><type>WEAPON_DMR_M392</type></weapon>
+		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
+		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
+
+		<ammo><for>WEAPON_DMR_M392</for><rounds>150</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
+		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
+	</man>
+</squad>
