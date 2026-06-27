@@ -8,7 +8,7 @@
 		<short_name>Marines AT Team</short_name>
 		<comment>1 MA5B assault rifle, 1 M392 DMR, 2 M7 SMGs, 2 SPNKr RPGs</comment>
 
-		<uniform>american_marines</uniform>
+		<uniform>unsc_marines</uniform>
 	</description>
 
 	<availability>

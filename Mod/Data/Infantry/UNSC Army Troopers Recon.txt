@@ -8,7 +8,7 @@
 		<short_name>Troopers Recon</short_name>
 		<comment>4 MA37 assault rifles, 1 M392 DMR. Superior quality</comment>
 
-		<uniform>american</uniform>
+		<uniform>unsc_troopers</uniform>
 	</description>
 
 	<availability>

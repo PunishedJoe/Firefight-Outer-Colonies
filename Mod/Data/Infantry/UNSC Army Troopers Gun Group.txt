@@ -8,7 +8,7 @@
 		<short_name>Troopers Gun Group</short_name>
 		<comment>3 MA37 assault rifles, 1 M392 DMRs 2 M73 LMGs</comment>
 
-		<uniform>american</uniform>
+		<uniform>unsc_troopers</uniform>
 	</description>
 
 	<availability>

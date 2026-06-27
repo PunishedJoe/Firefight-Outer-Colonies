@@ -8,7 +8,7 @@
 		<short_name>Army Troopers</short_name>
 		<comment>6 MA37 assault rifles, 3 M392 DMRs, 2 M73 LMGs, 1 M7 SMG, 1 SPNKR RPG</comment>
 
-		<uniform>american</uniform>
+		<uniform>unsc_troopers</uniform>
 	</description>
 
 	<availability>

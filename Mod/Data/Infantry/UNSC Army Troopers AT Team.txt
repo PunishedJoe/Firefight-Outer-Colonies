@@ -8,7 +8,7 @@
 		<short_name>Troopers AT</short_name>
 		<comment>2 SPNKR RPGs, 2 M7 SMGs,  1 MA37 assault rifle, 1 M392 DMR</comment>
 
-		<uniform>american</uniform>
+		<uniform>unsc_troopers</uniform>
 	</description>
 
 	<availability>

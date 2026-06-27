@@ -5,10 +5,10 @@
 		<quality>QUALITY_REGULAR</quality>
 
 		<long_name>UNSC Marines Spartan Laser Team (2525)</long_name>
-		<short_name>Marines Spartan Laser</short_name>
+		<short_name>Spartan Laser</short_name>
 		<comment>1 MA5B assault rifle, 1 M392 DMR, 1 M7 SMG, 1 M6 G/GNR "Spartan Laser"</comment>
 
-		<uniform>american_marines</uniform>
+		<uniform>unsc_marines</uniform>
 	</description>
 
 	<availability>

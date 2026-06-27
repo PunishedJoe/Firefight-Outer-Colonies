@@ -8,7 +8,7 @@
 		<short_name>Marines</short_name>
 		<comment>8 MA5B assault rifles, 3 M392 DMRs, 1 M7 SMG, 1 SPNKR RPGs</comment>
 
-		<uniform>american_marines</uniform>
+		<uniform>unsc_marines</uniform>
 	</description>
 
 	<availability>
