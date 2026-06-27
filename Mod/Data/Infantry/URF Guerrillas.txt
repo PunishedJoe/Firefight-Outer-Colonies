@@ -8,7 +8,7 @@
 		<short_name>Guerrillas</short_name>
 		<comment>3 M90 CAWS shotguns, 3 M7 SMGs, 1 MA37 assault rifle, 1 VK78 rifle, superior troops</comment>
 
-		<uniform>russian</uniform>
+		<uniform>urf_rebels</uniform>
 	</description>
 
 	<availability>

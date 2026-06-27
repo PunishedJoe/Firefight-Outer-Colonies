@@ -8,7 +8,7 @@
 		<short_name>Rebels</short_name>
 		<comment>6 MA37 assault rifles, 6 M7 SMGs</comment>
 
-		<uniform>russian</uniform>
+		<uniform>urf_rebels</uniform>
 	</description>
 
 	<availability>

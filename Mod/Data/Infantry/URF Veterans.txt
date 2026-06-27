@@ -8,7 +8,7 @@
 		<short_name>URF Veterans</short_name>
 		<comment>4 MA37 assault rifles, 4 M7 SMGs, and 1 M319 grenade launcher with 8 HE, 8 HEAT, and 8 smoke rounds. Superior quality</comment>
 
-		<uniform>russian</uniform>
+		<uniform>urf_rebels</uniform>
 	</description>
 
 	<availability>

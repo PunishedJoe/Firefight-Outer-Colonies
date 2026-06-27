@@ -8,7 +8,7 @@
 		<short_name>Pathfinders</short_name>
 		<comment>MA37 assault rifles, 2 VK78 rifles, 1 M7 SMG. Superior troops</comment>
 
-		<uniform>russian</uniform>
+		<uniform>urf_rebels</uniform>
 	</description>
 
 	<availability>
