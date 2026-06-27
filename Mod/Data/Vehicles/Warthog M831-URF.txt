@@ -27,7 +27,7 @@
 				<name>Engine</name>
 				<horsepower>80</horsepower>
 				<reliability>RELIABILITY_AVERAGE</reliability>
-				<mount>MOUNT_MIDDLE</mount>
+				<mount>MOUNT_FRONT</mount>
 				<rpm_idle>500</rpm_idle>
 				<rpm_limit>2800</rpm_limit>
 			</engine>
