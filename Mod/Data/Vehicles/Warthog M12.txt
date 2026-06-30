@@ -11,8 +11,8 @@
 	</description>
 
 	<availability>
-		<data><month>1</month><year>2513</year><number>500</number></data>
-		<data><month>12</month><year>2524</year><number>500</number></data>
+		<data><month>1</month><year>2513</year><number>1000</number></data>
+		<data><month>12</month><year>2524</year><number>1000</number></data>
 	</availability>
 
 	<vehicle>
