@@ -8,7 +8,7 @@
 		<short_name>ODST Combat Team</short_name>
 		<comment>6 M7 SMG's, 2 M392 DMRs, 1 SPNKR RPG. Units have night vision</comment>
 
-		<uniform>american_marines</uniform>
+		<uniform>unsc_odst</uniform>
 	</description>
 
 	<availability>

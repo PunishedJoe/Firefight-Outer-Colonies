@@ -8,7 +8,7 @@
 		<short_name>ODST Snipers</short_name>
 		<comment>1 SRS99C anti-materiel rifle, 1 M7/S. Units have night vision</comment>
 
-		<uniform>american_marines</uniform>
+		<uniform>unsc_odst</uniform>
 	</description>
 
 	<availability>
