@@ -19,3 +19,7 @@ Warthog M12G1
 Scorpion M808B
 // Transports
 Warthog M831
+
+// planes
+UNSC-Wombat
+UNSC-Wombat-LAU56D
