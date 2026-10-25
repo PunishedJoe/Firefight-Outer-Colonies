@@ -1,0 +1,34 @@
+<aircraft>
+	<description>
+		<type>TYPE_HELICOPTER</type>
+		<nationality>NATIONALITY_UNSC</nationality>
+
+		<long_name>AV-14B Hornet</long_name>
+		<short_name>Hornet</short_name>
+		<comment></comment>
+
+		<image>Helicopter-Hornet.png</image>
+
+		<sound>SOUND_HELICOPTER</sound>
+
+		<speed>200</speed>
+	</description>
+
+	<availability>
+		<data><month>1</month><year>2515</year><number>200</number></data>
+		<data><month>12</month><year>2552</year><number>200</number></data>
+	</availability>
+
+	<armament>
+		<weapon><type>WEAPON_HMG_GAU23</type><offsetX>-20</offsetX><offsetY>-512</offsetY></weapon>
+		<weapon><type>WEAPON_RPG_LAU65D_SGM151</type><offsetX>-120</offsetX><offsetY>-300</offsetY></weapon>
+		<weapon><type>WEAPON_RPG_LAU65D_SGM151</type><offsetX>120</offsetX><offsetY>-300</offsetY></weapon>
+
+		<ammo><for>WEAPON_HMG_GAU23</for><flavour>FLAVOUR_HE</flavour><rounds>500</rounds></ammo>
+		<ammo><for>WEAPON_HMG_GAU23</for><flavour>FLAVOUR_AP</flavour><rounds>500</rounds></ammo>
+		<ammo><for>WEAPON_RPG_LAU65D_SGM151</for><rounds>10</rounds></ammo>
+	</armament>
+
+	<rotor_blades><image>Hornet-rotor-blades.png</image><offsetX>-375</offsetX><offsetY>-30</offsetY><diameter>175</diameter></rotor_blades>
+	<rotor_blades><image>Hornet-rotor-blades.png</image><offsetX>375</offsetX><offsetY>-30</offsetY><diameter>175</diameter></rotor_blades>
+</aircraft>

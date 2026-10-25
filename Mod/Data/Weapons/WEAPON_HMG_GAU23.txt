@@ -1,0 +1,32 @@
+<weapon>
+
+	<name>GAU-23/AW/Linkless Feed Autocannon</name>
+	<type>WEAPON_CANNON</type>
+
+	<dimensions>
+		<calibre>20</calibre>
+		<barrel_length>64</barrel_length>
+	</dimensions>
+
+	<shoot>
+		<sound_shoot>shoot_M247H</sound_shoot>
+		<rof>600</rof>
+		<reload>RELOAD_AUTOMATIC</reload>
+	</shoot>
+
+	<magazine>
+		<capacity>1000</capacity>
+		<sound_reload>reload_magazine</sound_reload>
+	</magazine>
+
+	<ammo>
+		<type><flavour>FLAVOUR_AP</flavour><speed>1100</speed><mass>0.1</mass><name>PGU-42/B API</name></type>
+		<type><flavour>FLAVOUR_HE</flavour><speed>800</speed><mass>0.1</mass><HE>0.005</HE><name>M718 SAPHEI</name></type>
+	</ammo>
+
+	<usage>
+		<period>MODERN</period>
+		<countries>USA</countries>
+	</usage>
+
+</weapon>

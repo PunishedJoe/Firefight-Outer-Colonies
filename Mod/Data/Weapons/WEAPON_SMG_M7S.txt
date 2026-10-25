@@ -11,6 +11,7 @@
 	<shoot>
 		<sound_shoot>shoot_M7S</sound_shoot>
 		<rof>900</rof>
+		<muzzle_flash>no</muzzle_flash>
 		<reload>RELOAD_AUTOMATIC</reload>
 	</shoot>
 
@@ -24,8 +25,8 @@
 	</ammo>
 
 	<usage>
-		<countries>USA</countries>
 		<period>MODERN</period>
+		<countries>USA</countries>
 	</usage>
 
 </weapon>

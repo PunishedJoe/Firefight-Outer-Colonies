@@ -11,6 +11,7 @@
 	<shoot>
 		<sound_shoot>shoot_M7S</sound_shoot>
 		<rof>180</rof>
+		<muzzle_flash>no</muzzle_flash>
 		<reload>RELOAD_SEMI_AUTOMATIC</reload>
 	</shoot>
 

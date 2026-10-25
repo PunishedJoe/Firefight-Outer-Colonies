@@ -22,4 +22,6 @@ Warthog M831
 
 // planes
 UNSC-Wombat
-UNSC-Wombat-LAU56D
+
+// helicopters
+UNSC-AV14B

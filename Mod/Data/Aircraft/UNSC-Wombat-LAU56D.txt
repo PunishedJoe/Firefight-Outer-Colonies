@@ -9,9 +9,11 @@
 
 		<image>Plane-Wombat.png</image>
 
+		<ejects_flares>yes</ejects_flares>
+
 		<sound>SOUND_JET</sound>
 
-		<speed>300</speed>
+		<speed>400</speed>
 	</description>
 
 	<availability>

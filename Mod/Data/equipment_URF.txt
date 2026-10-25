@@ -15,3 +15,6 @@ Warthog M12MLRS-URF
 Scorpion M808B-URF
 // Transports
 Warthog M831-URF
+
+// helicopters
+UNSC-AV14B-URF

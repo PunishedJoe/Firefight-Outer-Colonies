@@ -73,6 +73,7 @@
 			<rotate_time>4</rotate_time>
 			<rotate_left>120</rotate_left>
 			<rotate_right>120</rotate_right>
+			<AA>yes</AA>
 
 			<armour>				// @0 means vertically upright, @90 is horizontal
 				<front>10@45</front>
