@@ -6,7 +6,7 @@
 
 		<long_name>ODST Sniper Team</long_name>
 		<short_name>ODST Snipers</short_name>
-		<comment>1 SRS99C anti-materiel rifle, 1 M7/S. Units have night vision</comment>
+		<comment>1 SRS99C anti-materiel rifle, 1 M7/S. Units have night vision.</comment>
 
 		<uniform>unsc_odst</uniform>
 	</description>
@@ -22,10 +22,12 @@
 		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_SMG_M7S</type></weapon>
+		<weapon><type>WEAPON_PISTOL_M6SOCOM</type></weapon>
 		<weapon><type>WEAPON_GRENADE_M9</type></weapon>
 		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
 
 		<ammo><for>WEAPON_SMG_M7S</for><rounds>600</rounds></ammo>
+		<ammo><for>WEAPON_PISTOL_M6SOCOM</for><rounds>36</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
 	</man>
@@ -35,12 +37,12 @@
 		<night_vision>yes</night_vision>
 
 		<weapon><type>WEAPON_AT_RIFLE_SRS99C</type></weapon>
-		<weapon><type>WEAPON_PISTOL_M6SOCOM</type></weapon>
+		<weapon><type>WEAPON_SMG_M7S</type></weapon>
 		<weapon><type>WEAPON_GRENADE_SMOKE</type></weapon>
 
 		<ammo><for>WEAPON_AT_RIFLE_SRS99C</for><rounds>16</rounds></ammo>
 		<ammo><for>WEAPON_AT_RIFLE_SRS99C</for><flavour>FLAVOUR_AT_RIFLE_HE</flavour><rounds>16</rounds></ammo>
-		<ammo><for>WEAPON_PISTOL_M6SOCOM</for><rounds>36</rounds></ammo>
+		<ammo><for>WEAPON_SMG_M7S</for><rounds>180</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_SMOKE</for><rounds>2</rounds></ammo>
 	</man>
 </squad>

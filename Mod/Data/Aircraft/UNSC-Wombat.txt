@@ -22,8 +22,8 @@
 	</availability>
 
 	<armament>
-		<weapon><type>WEAPON_BOMB_250_POUND</type><offsetX>-210</offsetX><offsetY>180</offsetY></weapon>
-		<weapon><type>WEAPON_BOMB_250_POUND</type><offsetX>160</offsetX><offsetY>180</offsetY></weapon>
+		<weapon><type>WEAPON_BOMB_250_KG</type><offsetX>-210</offsetX><offsetY>180</offsetY></weapon>
+		<weapon><type>WEAPON_BOMB_250_KG</type><offsetX>160</offsetX><offsetY>180</offsetY></weapon>
 
 		<ammo><for>WEAPON_BOMB_250_POUND</for><rounds>2</rounds></ammo>
 	</armament>

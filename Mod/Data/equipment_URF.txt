@@ -8,6 +8,7 @@ URF Rebel Gun Group
 URF Guerrillas
 URF Flamers
 URF Recon Pathfinders
+URF Scout Snipers
 
 //vehicles
 Warthog M12-URF
