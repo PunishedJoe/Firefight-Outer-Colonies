@@ -5,7 +5,7 @@
 
 	<dimensions>
 		<calibre>7.62</calibre>
-		<barrel_length>64</barrel_length>
+		<barrel_length>60</barrel_length>
 	</dimensions>
 
 	<shoot>
@@ -20,7 +20,7 @@
 	</magazine>
 
 	<ammo>
-		<type><flavour>FLAVOUR_BALL</flavour><speed>700</speed><mass>0.011</mass><name>7.62x51mm</name></type>
+		<type><flavour>FLAVOUR_BALL</flavour><speed>1000</speed><mass>0.011</mass><name>7.62x51mm</name></type>
 	</ammo>
 
 	<usage>

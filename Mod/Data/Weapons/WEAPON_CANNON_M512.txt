@@ -14,9 +14,9 @@
 	</shoot>
 
 	<ammo>
-		<type><flavour>FLAVOUR_APFSDS</flavour><speed>700</speed><mass>10</mass><name>DART</name></type>
-		<type><flavour>FLAVOUR_HEAT</flavour><speed>700</speed><mass>10</mass><era>HEAT_ERA_MODERN</era><HE>6</HE><name>HEAT</name></type>
-		<type><flavour>FLAVOUR_CANISTER</flavour><speed>100</speed><mass>10</mass><name>CAN</name></type>
+		<type><flavour>FLAVOUR_APFSDS</flavour><speed>1200</speed><mass>10</mass><name>DART</name></type>
+		<type><flavour>FLAVOUR_HEAT</flavour><speed>800</speed><mass>10</mass><era>HEAT_ERA_MODERN</era><HE>6</HE><name>HEAT</name></type>
+		<type><flavour>FLAVOUR_CANISTER</flavour><speed>120</speed><mass>10</mass><name>CAN</name></type>
 	</ammo>
 
 	<usage>

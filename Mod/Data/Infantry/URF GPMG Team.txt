@@ -23,7 +23,7 @@
 
 		<weapon><type>WEAPON_HMG_M247GPMG</type></weapon>
 
-		<ammo><for>WEAPON_HMG_M247GPMG</for><rounds>500</rounds></ammo>
+		<ammo><for>WEAPON_HMG_M247GPMG</for><rounds>600</rounds></ammo>
 
 		<rotate_left>60</rotate_left>
 		<rotate_right>60</rotate_right>
@@ -48,6 +48,6 @@
 		<weapon><type>WEAPON_SMG_M7</type></weapon>
 
 		<ammo><for>WEAPON_SMG_M7</for><rounds>480</rounds></ammo>
-		<ammo><for>WEAPON_HMG_M247GPMG</for><rounds>500</rounds></ammo>
+		<ammo><for>WEAPON_HMG_M247GPMG</for><rounds>600</rounds></ammo>
 	</man>
 </squad>

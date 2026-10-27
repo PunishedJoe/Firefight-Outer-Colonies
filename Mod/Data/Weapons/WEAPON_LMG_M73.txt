@@ -10,7 +10,7 @@
 
 	<shoot>
 		<sound_shoot>shoot_MA5B</sound_shoot>
-		<rof>800</rof>
+		<rof>900</rof>
 		<reload>RELOAD_AUTOMATIC</reload>
 	</shoot>
 

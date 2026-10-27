@@ -5,12 +5,12 @@
 
 	<dimensions>
 		<calibre>7.62</calibre>
-		<barrel_length>50</barrel_length>
+		<barrel_length>38</barrel_length>
 	</dimensions>
 
 	<shoot>
 		<sound_shoot>shoot_MA37</sound_shoot>
-		<rof>650</rof>
+		<rof>900</rof>
 		<reload>RELOAD_AUTOMATIC</reload>
 	</shoot>
 

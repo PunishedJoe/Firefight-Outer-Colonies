@@ -3,6 +3,7 @@ URF Rebel Squad
 URF Tank Busters
 URF Veterans
 URF GPMG Team
+URF HMG Team
 URF Fake Civilians
 URF Rebel Gun Group
 URF Guerrillas

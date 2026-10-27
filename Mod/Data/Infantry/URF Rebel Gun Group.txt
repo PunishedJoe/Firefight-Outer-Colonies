@@ -55,7 +55,7 @@
 
 		<ammo><for>WEAPON_SMG_M7</for><rounds>600</rounds></ammo>
 		<ammo><for>WEAPON_GRENADE_M9</for><rounds>2</rounds></ammo>
-		<ammo><for>WEAPON_LMG_HMG38</for><rounds>112</rounds></ammo>
+		<ammo><for>WEAPON_LMG_HMG38</for><rounds>168</rounds></ammo>
 	</man>
 
 	<man>

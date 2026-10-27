@@ -6,6 +6,7 @@ UNSC Marines Spartan Laser Team 2525
 UNSC Marines HMG Team
 UNSC Army Troopers Squad
 UNSC Army Troopers Gun Group
+UNSC Army Troopers GPMG Team
 UNSC Army Troopers AT Team
 UNSC Army Troopers Recon
 ODST Combat Team
